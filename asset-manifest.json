@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/freshcutnew/static/css/main.88e407ef.chunk.css",
+    "main.js": "/freshcutnew/static/js/main.dede7687.chunk.js",
+    "main.js.map": "/freshcutnew/static/js/main.dede7687.chunk.js.map",
+    "runtime-main.js": "/freshcutnew/static/js/runtime-main.4529afe5.js",
+    "runtime-main.js.map": "/freshcutnew/static/js/runtime-main.4529afe5.js.map",
+    "static/js/2.5f25e096.chunk.js": "/freshcutnew/static/js/2.5f25e096.chunk.js",
+    "static/js/2.5f25e096.chunk.js.map": "/freshcutnew/static/js/2.5f25e096.chunk.js.map",
+    "index.html": "/freshcutnew/index.html",
+    "static/css/main.88e407ef.chunk.css.map": "/freshcutnew/static/css/main.88e407ef.chunk.css.map",
+    "static/js/2.5f25e096.chunk.js.LICENSE.txt": "/freshcutnew/static/js/2.5f25e096.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/freshcutnew/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo.aaa39554.png": "/freshcutnew/static/media/logo.aaa39554.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4529afe5.js",
+    "static/js/2.5f25e096.chunk.js",
+    "static/css/main.88e407ef.chunk.css",
+    "static/js/main.dede7687.chunk.js"
+  ]
+}
